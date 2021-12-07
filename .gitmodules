@@ -1,6 +1,0 @@
-[submodule "E-commerce"]
-	path = E-commerce
-	url = git@github.com:pablomcassani/E-commerce.git
-[submodule "Jamazona"]
-	path = Jamazona
-	url = git@github.com:pablomcassani/Jamazona.git
